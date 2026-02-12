@@ -1,0 +1,61 @@
+body {
+  background: #111;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.register-card {
+  max-width: 420px;
+  margin: 3rem auto;
+  padding: 1.5rem;
+  background: #1a1a1a;
+  border: 1px solid #333;
+}
+
+.register-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #f2f2f2;
+}
+
+.field {
+  margin-bottom: 0.9rem;
+}
+
+.field label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #bbb;
+  margin-bottom: 0.25rem;
+}
+
+.field input {
+  width: 100%;
+  padding: 0.45rem;
+  font-size: 0.85rem;
+  border: 1px solid #444;
+  background: #0f0f0f;
+  color: #eee;
+}
+
+.field input:focus {
+  outline: none;
+  border-color: #777;
+  background: #141414;
+}
+
+button {
+  margin-top: 0.75rem;
+  padding: 0.45rem 0.75rem;
+  font-size: 0.85rem;
+  font-weight: bold;
+  border: 1px solid #666;
+  background: #2a2a2a;
+  color: #f2f2f2;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #333;
+}
