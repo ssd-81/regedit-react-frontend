@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/regedit-react-frontend/static/css/main.eb192ac7.css",
+    "main.js": "/regedit-react-frontend/static/js/main.77ad08fd.js",
+    "static/js/453.44b8daea.chunk.js": "/regedit-react-frontend/static/js/453.44b8daea.chunk.js",
+    "index.html": "/regedit-react-frontend/index.html",
+    "main.eb192ac7.css.map": "/regedit-react-frontend/static/css/main.eb192ac7.css.map",
+    "main.77ad08fd.js.map": "/regedit-react-frontend/static/js/main.77ad08fd.js.map",
+    "453.44b8daea.chunk.js.map": "/regedit-react-frontend/static/js/453.44b8daea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb192ac7.css",
+    "static/js/main.77ad08fd.js"
+  ]
+}
